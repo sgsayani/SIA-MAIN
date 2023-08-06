@@ -1,0 +1,9 @@
+streamlit==1.12.0
+opencv-contrib-python-headless==4.6.0.66
+opencv-python==4.6.0.66
+streamlit-webrtc==0.43.4
+numpy==1.22.4
+mediapipe==0.8.11
+keras==2.10.0
+tensorflow
+av

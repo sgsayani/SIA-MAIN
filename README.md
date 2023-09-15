@@ -3,8 +3,8 @@ Our goal is to develop a program that utilizes a webcam or external camera as an
 
 The program will have several features that will activate through various facial, ocular, and manual gestures. To accomplish these tasks, we will employ machine learning methods using the Python programming language.
 
-**Components:**  Python | VSCode(IDE)
-**Libraries:** OpenCV, NumPy, TensorFlow, Media pipe, Tkinter
+**Components:**  Python | VSCode(IDE)<br>
+**Libraries:** OpenCV | NumPy | TensorFlow | Media pipe | Tkinter
 
 **Project Video Link:**  https://drive.google.com/file/d/1q1GnFtpq1aYaaATI38nSV79oPcGgXAWv/view?usp=drive_link
 
